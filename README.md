@@ -146,10 +146,10 @@ Based on the analysis, several strategic recommendations were developed:
 
 ## Deliverables  
 
-- [SQL: Data Quality Checks](./SQL%20Queries/Example%20Initial%20Data%20Checks.sql)  
-- [SQL: Data Cleaning & Preparation](./SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)  
-- [SQL: Targeted Business Questions](./SQL%20Queries/Targeted%20Business%20Questions.sql)  
-- [Power BI Dashboard (.pbix)](./Elist%20Electronics.pbix)
+- [SQL: Data Quality Checks](./SQL/Initial%20Data%20Checks.sql) 
+- [SQL: Data Cleaning & Preparation](./SQL/Data%20Cleaning.sql)
+- [SQL: Targeted Business Questions](./SQL/Strategic%20Business%20Questions.sql)  
+- [Power BI Dashboard (.pbix)](./EElectronics.pbix)
 
 ---
 
