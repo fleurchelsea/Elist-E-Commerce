@@ -35,7 +35,7 @@ The analysis used four primary tables:
 | **geo_lookup** | Regional and country mapping |
 | **order_status** | Order fulfillment and refund tracking |
 
-![Elist Electronics ERD](./images/ERD_elist.png)
+![Elist Electronics ERD](./images/ERD%20e-list.png)
 
 ---
 
